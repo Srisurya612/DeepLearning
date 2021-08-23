@@ -16,3 +16,8 @@ Lastly, whatever nearby objects that have been detected by the first 2 parts nee
 
 ### How to run the code:
 Run main.py and it will call the all the necessary portions and play the audio.
+
+To run the object detection code download tensorflow Object detection API from the GITHUB repo.
+
+Future Scope:
+We are incorporating 3D depth estimation which requires GAN's
