@@ -1,4 +1,4 @@
-# Assistive Device for visually impaired
+Vision - Assistive Device for visually impaired
 
 This was my Capstone Project for my undergrad.
 
